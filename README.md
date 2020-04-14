@@ -2,4 +2,4 @@
 
 ## ext-ip-mon.sh
 
-Send email, when external IP has changed
+Send email, when external IP has changed. Add script in crontab
